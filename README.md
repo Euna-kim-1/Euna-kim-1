@@ -2,7 +2,7 @@
 
 Growth oriented Developer 🔥
 
-I'm a Junior full-stack developer.
+I'm a full-stack junior developer.
 
 
 ## My Blog
